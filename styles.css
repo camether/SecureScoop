@@ -1,7 +1,7 @@
 /* Reset some default browser styles */
 body, h1, h2, h3, p, ul, li, a {
     margin: 0;
-    padding: 20 px;
+    padding: 0;
 }
 
 /* Set a background color and text color */
@@ -16,7 +16,7 @@ header {
     background-color: #0e3e4a;
     color: #fff;
     text-align: left;
-    height: 200 px; 
+    padding: 40px 0; 
 }
 
 nav ul {
